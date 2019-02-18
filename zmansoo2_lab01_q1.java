@@ -1,6 +1,9 @@
 /**
  * 
  */
+
+//--------------------------Grades with weight calculator--------------------------
+
 package zmansoo2_1;
 import java.util.Scanner;
 
@@ -8,6 +11,8 @@ import java.util.Scanner;
  * @author zayyed
  *
  */
+
+
 public class zmansoo2_lab01_q1 {
 
 	/**

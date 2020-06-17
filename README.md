@@ -1,4 +1,3 @@
 # First Year Java Programming Labs
 
-just my coding assignments
-wow
+Just my first year university programming labs
